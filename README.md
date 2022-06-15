@@ -23,7 +23,7 @@ The fundraising goals initially set by artists are incredibly important to deter
 
 #### Challenges 
 
-Two related challenges with the composition dataset became apparent throughout this project.  The first issue is that the goal amounts are not normally distributed, with some questionably high outliers included.  A more robust study would seek or normalize the data first and detail the steps taken to either include or exclude certain data.  The second challenge based on the nature of the data is that many projects simply never got off the ground, with over 500 campaigns garnering less than $5 in pledged funds.  This affected the range of data with a ‘bunched’ distribution around 0.  Further efforts could normalize the data by only including successful campaigns above a certain threshold, though at the cost of not making Kickstarter campaigns seem more successful than they actually are.  
+Two challenges with the dataset became apparent.  The first issue is that the goal amounts are not normally distributed, with some questionably high outliers included.  A more robust study would seek or normalize the data first and detail the steps taken to either include or exclude certain data.  The second challenge based on the nature of the data is that many projects simply never got off the ground, with over 500 campaigns garnering less than $5 in pledged funds.  This affected the range of data with a ‘bunched’ distribution around 0.  Further efforts could normalize the data by only including successful campaigns above a certain threshold, though at the cost of not making Kickstarter campaigns seem more successful than they actually are.  
 
   
 ## **Results**
