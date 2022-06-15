@@ -17,7 +17,7 @@ Theater campaigns make up more than half of all Kickstarter campaigns in the US 
 
 #### Fundraising Goals
 
-The fundraising goals initially set by artists are incredibly important to determine their success.  [Kickstarter’s model](https://www.kickstarter.com/how-it-works) is based on an all-or-nothing approach to securing crowd-sourced funding.  As the chart below demonstrates, campaigns see declining levels of success as their fundraising goals become more ambitious.  This isn’t to say that high achievers are not able to see success, indeed there is a spike of successful campaigns evident between $40,000 - $45,000, but artists should take the data and seriously consider realistic fundraising goals for their projects.  
+The fundraising goals initially set by artists are incredibly important to determine their success.  [Kickstarter’s model](https://www.kickstarter.com/how-it-works) is based on an all-or-nothing approach to securing crowdsourced funding.  As the chart below demonstrates, campaigns see declining levels of success as their fundraising goals become more ambitious.  This isn’t to say that high achievers are not able to see success, indeed there is a spike of successful campaigns evident between $40,000 - $45,000, but artists should take the data and seriously consider realistic fundraising goals for their projects.  
 
 ![Goals](/Outcomes_vs_Goals.png)
 
