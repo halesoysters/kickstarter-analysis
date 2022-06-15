@@ -12,7 +12,8 @@ This report uses powerful tools in Excel to explore crowdfunding data from Kicks
 
 Theater campaigns make up more than half of all Kickstarter campaigns in the US and UK and are an important avenue for access to funding.  Timing clearly matters when a theater company plans to launch its campaign as demonstrated in the graphic below.  While theater companies regularly perform inside - think of the Nutcracker - clearly, there is something about the summer months that inspires the attention of audiences.   
 
-![Theater Outcome](/Theater_Outcomes_vs_Launch.png)
+![Theater Outcome](/Theater_Outcomes_vs_Launch .png)
+
 
 ##### Fundraising Goals
 
