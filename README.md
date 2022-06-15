@@ -37,11 +37,11 @@ The report shows that May and June are by far the most successful months for the
 
 #### Fundraising Goals
 
-This portion of the report uses links to the main data by using the ´COUNTIFS´ function to target a specific result (successful, failed, etc.) as well as a fundraising target (ie. $1,000-to $5,000) by referencing the Kickstarter_Challenge data sheet.  The data points to a downward slide in success from a high of 75% to less than 30% as fundraising goals increase.  As mentioned earlier, the sharp uptick between 40,000 to 45,000 warrants further study.
+This portion of the report uses links to the main data by using the `COUNTIFS` function to target a specific result (successful, failed, etc.) as well as a fundraising target (ie. $1,000-to $5,000) by referencing the Kickstarter_Challenge data sheet.  The data points to a downward slide in success from a high of 75% to less than 30% as fundraising goals increase.  As mentioned earlier, the sharp uptick between 40,000 to 45,000 warrants further study.
 
-More data comparing successful and failed campaigns comes from the descriptive statistics sheet that uses a linear regression ´STDEV.P´ function.  This data shows that failed Kickstarter campaigns on average have a much higher fundraising goal, with a long tail of poorly designed campaigns with unrealistically high amounts.  
+More data comparing successful and failed campaigns comes from the descriptive statistics sheet that uses a linear regression `STDEV.P` function.  This data shows that failed Kickstarter campaigns on average have a much higher fundraising goal, with a long tail of poorly designed campaigns with unrealistically high amounts.  
 
-Last, the Edinburgh Research tab dives into specific data for a client that focuses on some highlights from the Edinburgh Fest Fringe using ´VLOOPS´ to pull qualitative & quantitative data on specific successful theater productions.   
+Last, the Edinburgh Research tab dives into specific data for a client that focuses on some highlights from the Edinburgh Fest Fringe using `VLOOPS` to pull qualitative & quantitative data on specific successful theater productions.   
 
 
 #### Limitations of the data
