@@ -12,13 +12,13 @@ This report uses powerful tools in Excel to explore crowdfunding data from Kicks
 
 Theater campaigns make up more than half of all Kickstarter campaigns in the US and UK and are an important avenue for access to funding.  Timing clearly matters when a theater company plans to launch its campaign as demonstrated in the graphic below.  While theater companies regularly perform inside - think of the Nutcracker - clearly, there is something about the summer months that inspires the attention of audiences.   
 
-![Theater Outcome] (/Theater_Outcomes_vs_Launch .png)
+![Theater Outcome](/Theater_Outcomes_vs_Launch .png)
 
 ###### Fundraising Goals
 
-The fundraising goals initially set by artists are incredibly important to determine their success.  [Kickstarter’s model] (https://www.kickstarter.com/how-it-works) is based on an all-or-nothing approach to securing crowd-sourced funding.  As the chart below demonstrates, campaigns see declining levels of success as their fundraising goals become more ambitious.  This isn’t to say that high achievers are not able to see success, indeed there is a spike of successful campaigns evident between $40,000 - $45,000, but artists should take the data and seriously consider realistic fundraising goals for their projects.  
+The fundraising goals initially set by artists are incredibly important to determine their success.  [Kickstarter’s model](https://www.kickstarter.com/how-it-works) is based on an all-or-nothing approach to securing crowd-sourced funding.  As the chart below demonstrates, campaigns see declining levels of success as their fundraising goals become more ambitious.  This isn’t to say that high achievers are not able to see success, indeed there is a spike of successful campaigns evident between $40,000 - $45,000, but artists should take the data and seriously consider realistic fundraising goals for their projects.  
 
-![Goals] (/Outcomes_vs_Goals.png)
+![Goals](/Outcomes_vs_Goals.png)
 
 ###### Challenges 
 
