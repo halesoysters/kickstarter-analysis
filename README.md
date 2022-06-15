@@ -30,7 +30,7 @@ Two related challenges with the composition dataset became apparent throughout t
 
 #### Theater Productions
 
-This report uses a pivot table to allow the viewer to drill down to a specific year and Country, as well as filter by if the outcome is successful, canceled, or even still live.  To do this, the yearly data was converted from Unix code and a separate column using the ´Years()´ function in Excel was created to separate years from the inferred date.   
+This report uses a pivot table to allow the viewer to drill down to a specific year and Country, as well as filter by if the outcome is successful, canceled, or even still live.  To do this, the yearly data was converted from Unix code and a separate column using ´Years´ in Excel was created to separate years from the inferred date.   
 
 The report shows that May and June are by far the most successful months for theater Kickstart campaigns, while December and January are the least successful.  
 
